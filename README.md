@@ -1,3 +1,5 @@
+![Michealking Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png)
+
 # 👑 BuildsWithKing
 
 ### Solidity Dev on a Mission | Web3 Builder | 30 Days. 30 Contracts.
