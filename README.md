@@ -1,4 +1,4 @@
-[Michealking Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png)
+![Michealking Banner](https://github.com/user-attachments/assets/e40fada9-bde2-4c65-854a-c0ad3f846622)
 
 # 👑 BuildsWithKing
 
