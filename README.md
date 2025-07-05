@@ -1,4 +1,4 @@
-![Michealking Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png)
+[Michealking Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png)
 
 # 👑 BuildsWithKing
 
