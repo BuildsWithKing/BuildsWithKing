@@ -1,9 +1,9 @@
-![Michealking Banner](https://github.com/user-attachments/assets/e40fada9-bde2-4c65-854a-c0ad3f846622)
+![WhatsApp Image 2025-07-07 at 20 13 37_7dbe5381](https://github.com/user-attachments/assets/d291d5a5-f8ad-4ece-8f5f-875b919e61f9)
 
 # 👑 BuildsWithKing
 
-### Solidity Dev on a Mission | Web3 Builder | 30 Days. 30 Contracts.
-
+### Solidity Dev on a Mission · Web3 Builder
+### 30-Day Challenge: 20 Contracts + 10 Days of Testing, Scripting & Deployment
 ---
 
 *“Consistency builds mastery. I’m here for both.”*
