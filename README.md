@@ -10,7 +10,7 @@
 
 Welcome to my GitHub profile. I'm Michealking — a focused, driven Web3 backend developer on a journey to master *Solidity and Smart Contract Development*. Through *daily building, clean code, and structured learning*, I’m documenting every step from beginner to advanced.
 
-### 🚀 30 Days Solidity Challenge
+### 🚀 30 Day Solidity Challenge
 I'm currently building:
 > *One Smart Contract Every Day*  
 > From basic storage contracts to real-world vaults using structs, mappings, custom errors, and modifiers.
@@ -47,7 +47,8 @@ I'm currently building:
 ### 🔗 Let’s Connect:
 - 🐦 *X (Twitter):* [@BuildsWithKing](https://x.com/BuildsWithKing)
 - 💼 *LinkedIn:* [BuildsWithKing](https://linkedin.com/in/christian-michealking)
-- 🧠 *30 Days of Solidity:* [View Challenge Repo](https://github.com/BuildsWithKing/30-days-solidity-challenge)
+- 🧠 *30 Day of Solidity:* [View Challenge Repo](https://github.com/BuildsWithKing/30-days-solidity-challenge)
+- 🌐*Website:* [BuildsWithKing] (https://buildswithking.vercel.app)
 
 ---
 
