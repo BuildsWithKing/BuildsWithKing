@@ -1,7 +1,6 @@
 
 <p align = "center">
-  
-![WhatsApp Image 2025-07-08 at 14 27 57_294e44fc](https://github.com/user-attachments/assets/4d4561d9-afc5-4308-bce7-9f9bc8fb650c)
+  <img src = "WhatsApp Image 2025-07-08 at 14.27.57_0dab0965.jpg" alt "Michealking Banner" width= "80%">
 </p>
 
 # 👑 BuildsWithKing
