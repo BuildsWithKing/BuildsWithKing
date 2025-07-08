@@ -1,4 +1,8 @@
-![WhatsApp Image 2025-07-07 at 20 13 37_7dbe5381](https://github.com/user-attachments/assets/d291d5a5-f8ad-4ece-8f5f-875b919e61f9)
+
+<p align = "center">
+  
+![WhatsApp Image 2025-07-08 at 14 27 57_294e44fc](https://github.com/user-attachments/assets/4d4561d9-afc5-4308-bce7-9f9bc8fb650c)
+</p>
 
 # 👑 BuildsWithKing
 
