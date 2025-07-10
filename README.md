@@ -9,6 +9,9 @@
 
 *“Consistency builds mastery. I’m here for both.”*
 
+> “I believe mastery comes through consistency — and I’m here to prove it.”
+— Michealking 👑
+
 Welcome to my GitHub profile. I'm Michealking — a focused, driven Web3 backend developer on a journey to master *Solidity and Smart Contract Development*. Through *daily building, clean code, and structured learning*, I’m documenting every step from beginner to advanced.
 
 ### 🚀 30 Day Solidity Challenge
