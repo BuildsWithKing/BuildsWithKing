@@ -41,7 +41,7 @@ From *basic storage contracts* to *real-world vaults* using structs, mappings, c
 > - “Don’t skip the hard parts. Build through them.”  
 > - “One project a day keeps regret away.”  
 > - “God first. Code second.”
-> - "Consistency Builds Mastery. Here to prove it"  
+> - "Consistency builds mastery. Here to prove it."  
 
 ---
 
