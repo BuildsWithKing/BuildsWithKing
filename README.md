@@ -15,9 +15,6 @@ From *basic storage contracts* to *real-world vaults* using structs, mappings, c
 
 📂 *Challenge Repo:* [30-days-solidity-challenge](https://github.com/BuildsWithKing/30-days-solidity-challenge)  
 
-<!-- Progress Bar -->
-![Challenge Progress](https://buildswithking.vercel.app/)
-
 ---
 
 ## 🧠 Current Focus
