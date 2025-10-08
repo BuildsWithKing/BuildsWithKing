@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Solidity Challenge (Day 90+ and counting...)
+## 🚀 Solidity Challenge (Day 100+ and counting...)
 
 I started this journey with a simple storage contract, and step by step, I’ve built *20+ smart contracts* that reflect real-world use cases.  
 From simple storage to banks, vaults, polls, and auctions — each project taught me something new in Solidity, security, and professional development.  
