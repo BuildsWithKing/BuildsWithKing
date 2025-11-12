@@ -1,6 +1,6 @@
 
 ![WhatsApp Image 2025-07-07 at 20 13 36_e4698e90](https://github.com/user-attachments/assets/13a6f43f-6c08-4726-b4e6-bdd8f2ab7b16)
-<h3 align="center"> 📅 Coding since: April 2025 | 🌍 Based in Nigeria | 💻 20+ Smart Contracts shipped </h3>
+<h3 align="center"> 📅 Coding since: April 2025 | 💻 45+ Smart Contracts shipped </h3>
 
 <h1 align="center">👑 BuildsWithKing · Michealking</h1>
 <h3 align="center">Solidity Dev on a Mission · Web3 Security Builder</h3>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Solidity Challenge (Day 129+ and counting...)
+## 🚀 Solidity Challenge (Day 135+ and counting...)
 
 I started this journey with a simple storage contract, and step by step, I’ve built *20+ smart contracts* that reflect real-world use cases.  
 From simple storage to banks, vaults, polls, and auctions — each project taught me something new in Solidity, security, and professional development.  
@@ -37,7 +37,7 @@ From simple storage to banks, vaults, polls, and auctions — each project taugh
 19. *[SimpleAuction](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day019-SimpleAuction/src)* → Auction contract with bidding logic  
 20. *[GasSaverApp](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day020-GasSaverApp/src)* → First optimization-focused project  
 
-**🔑 Progress: 20 Contracts in 20 Days (Day 129+ of Challenge)** 
+**🔑 Progress: 20 Contracts in 20 Days (Day 135+ of Challenge)** 
 
 **⏳ Built daily, refined with Foundry & testing.** 
 
