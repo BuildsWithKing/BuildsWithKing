@@ -1,117 +1,193 @@
 
 ![WhatsApp Image 2025-07-07 at 20 13 36_e4698e90](https://github.com/user-attachments/assets/13a6f43f-6c08-4726-b4e6-bdd8f2ab7b16)
-<h1 align="center">👑 Michealking · BuildsWithKing</h1>
-<h3 align="center">Solidity Developer | DeFi Protocol Builder | Smart Contract Security</h3>
+
+<h1 align="center">Christian Michealking (@BuildsWithKing)</h1>
+<h3 align="center">Solidity Developer | Smart Contract Security | DeFi Protocol Builder</h3>
 
 <p align="center">
-  <em>10 months of consistent building • 45+ Smart Contracts shipped • 300+ days of code</em>
+  <em>11 months building in Web3 • 45+ Smart Contracts • 300+ consecutive days shipping</em>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/BuildsWithKing"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/michealking-buildswithking-89724434a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://buildswithking.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:buildswithking@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-##  Featured Projects
+## About Me
 
-### 💰[KingYieldAggregator](https://github.com/BuildsWithKing/king-yield-aggregator)
+I'm a self-taught Solidity developer specializing in **security-first smart contract development** and **DeFi protocol infrastructure**. Over the past 11 months, I've shipped 45+ smart contracts publicly, progressing from basic storage contracts to multi-strategy DeFi vaults and stablecoin protocols.
+
+My approach centers on building production-grade, battle-tested contracts with **100% test coverage standards**, comprehensive Foundry testing (unit + fuzz + integration), and security patterns built from first principles. I think like an attacker to build defensive systems.
+
+**Current Status:** Open to smart contract development, DeFi protocol engineering, and security auditing opportunities.
+
+---
+
+## Featured Projects
+
+### [BuildsWithKing-Security](https://github.com/BuildsWithKing/buildswithking-security)
+**Open-source security framework with 18+ modular contracts built from scratch**
+
+Production-ready smart contract infrastructure designed to understand security patterns deeply, not just import them.
+
+- **18+ modular contracts:** Access control, reentrancy guards, pausability, ETH recovery mechanisms
+- **Full ERC20 implementation:** Complete standard with Burnable, Mintable, Capped, and Pausable extensions
+- **Attack simulation contracts:** KingReentrancyAttacker and KingVulnerableContract for security education
+- **v1.6.0:** Maintained with proper semantic versioning, 8 public releases
+- **100% test coverage:** Battle-tested in production across KYA and KingUSD projects
+
+**Tech Stack:** Solidity 0.8.30 • Foundry  
+**Links:** [Repository](https://github.com/BuildsWithKing/buildswithking-security)
+
+---
+
+### [KingYieldAggregator (KYA)](https://github.com/BuildsWithKing/king-yield-aggregator)
 **Multi-strategy DeFi yield vault with automated capital allocation**
 
-Professional yield optimization protocol that automatically rebalances capital across multiple strategies to maximize returns.
+Professional yield optimization protocol demonstrating protocol-level architecture and infrastructure design.
 
-**🔧 Tech Stack:** Solidity 0.8.30 • Foundry • Next.js • TypeScript • Wagmi • Base Sepolia  
-**✨ Key Features:**
-- ERC4626-inspired share mechanism for fair value distribution
-- Dynamic rebalancing across strategies  
-- Real-time APY tracking with auto-optimization
+- **ERC4626-inspired share mechanism** for fair value distribution
+- **100+ strategy support:** Architected to handle dynamic capital allocation across unlimited strategies
+- **VaultCore, StrategyManager, Rebalancer:** Multi-contract system with 100% test coverage
+- **Real-time APY tracking** with automated rebalancing
+- **Critical bug fix:** Identified and resolved 9% deposit calculation error during development
 
-**🔗 Links:** [Live Demo](https://kingyieldaggregator.vercel.app) • [Contracts on BaseScan](https://sepolia.basescan.org/address/0xA9F97Fd2784d27fE09751C97181b80CD5CF110c5)
+**Tech Stack:** Solidity 0.8.30 • Foundry • Next.js • TypeScript • Base Sepolia  
+**Links:** [Repository](https://github.com/BuildsWithKing/king-yield-aggregator) • [Live Demo](https://kingyieldaggregator.vercel.app) • [Contract on BaseScan](https://sepolia.basescan.org/address/0xA9F97Fd2784d27fE09751C97181b80CD5CF110c5)
 
 ---
 
-### 🎰 [Raffle Smart Contract](https://github.com/BuildsWithKing/raffle-smart-contract)
+### [KingUSD](https://github.com/BuildsWithKing/king-defi-stablecoin)
+**Decentralized overcollateralized stablecoin protocol (In Development)**
+
+Stablecoin protocol inspired by MakerDAO architecture, demonstrating understanding of complex DeFi economic systems.
+
+- **Multi-contract system:** KUSDEngine (collateral management), KingUSD (ERC20 token)
+- **Health factor calculations** with liquidation mechanisms and bonuses
+- **Chainlink oracle integration** for price feeds
+- **Uses own security modules:** KingReentrancyGuard, KingClaimMistakenETH in production context
+- **Multi-collateral support:** WETH and WBTC with extensible architecture
+
+**Tech Stack:** Solidity 0.8.30 • Foundry • Chainlink  
+**Links:** [Repository](https://github.com/BuildsWithKing/king-defi-stablecoin)
+
+---
+
+### [Ethos Reputation Launch](https://github.com/BuildsWithKing/ethos-reputation-launch)
+**Soulbound NFT system built in 72-hour hackathon**
+
+Complete reputation-based NFT system demonstrating ability to ship production-quality code under tight deadlines.
+
+- **Reputation-gated minting** with tiered rewards (Gold/Silver/Bronze)
+- **Chainlink oracle integration** for decentralized reputation verification
+- **98.71% test coverage** with comprehensive unit and integration tests
+- **72-hour build time:** Ethos Vibeathon 2026 hackathon submission
+
+**Tech Stack:** Solidity 0.8.30 • Foundry • Chainlink • Base Sepolia  
+**Links:** [Repository](https://github.com/BuildsWithKing/ethos-reputation-launch)
+
+---
+
+### [Raffle Smart Contract](https://github.com/BuildsWithKing/raffle-smart-contract)
 **Provably fair lottery system powered by Chainlink VRF**
 
-Decentralized raffle with cryptographically secure randomness and automated upkeep.
+Decentralized raffle demonstrating advanced oracle integration and automation patterns.
 
-**🔧 Tech Stack:** Solidity • Foundry • Chainlink VRF v2.5 • Chainlink Automation  
-**✨ Key Features:**
-- Verifiable random winner selection using Chainlink VRF
-- Automated upkeep via Chainlink Keepers
-- Event-driven architecture for full transparency
-- Comprehensive test coverage with Foundry
+- **Chainlink VRF v2.5** for verifiable random winner selection
+- **Chainlink Automation** (checkUpkeep, performUpkeep) for automated draws
+- **Event-driven architecture** for full transparency
+- **Comprehensive Foundry tests** with unit, integration, and fuzz coverage
 
-**📚 Learning:** Advanced oracle integration • Randomness in smart contracts • Automation patterns
-
----
-
-### 🏗️ [30-Day Solidity Challenge](https://github.com/BuildsWithKing/30-days-solidity-challenge)
-**20+ production-ready smart contracts demonstrating core Solidity patterns**
-
-A comprehensive portfolio showcasing everything from basic storage to complex DeFi protocols.
-
-**📦 Project Categories:**
-- 💳 **DeFi:** Vaults, Banks, Donation Systems, Referral Programs
-- 🗳️ **Governance:** Voting Systems, Proposals, Decentralized Polls
-- 🎨 **NFT:** Minting, Storage, Tracking, Vault Management
-- 🔐 **Security:** Access Control, Wallet Guards, KYC Systems
-- ⚡ **Optimization:** Gas-efficient implementations and design patterns
-
-**🎯 Progress:** 300+ consecutive days of building and shipping
-
-**🔗 Explore:** [View All Contracts](https://github.com/BuildsWithKing/30-days-solidity-challenge)
+**Tech Stack:** Solidity • Foundry • Chainlink VRF • Chainlink Automation  
+**Links:** [Repository](https://github.com/BuildsWithKing/raffle-smart-contract)
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Smart Contract Development:**
-```
-Solidity 0.8.x                     Design Patterns
-Gas Optimization                   Security Best Practices
-ERC Standards (20, 721, 4626)      Access Control & Ownership
-```
+**Smart Contract Development**
+- Solidity 0.8.x (45+ contracts shipped)
+- ERC standards (ERC20, ERC721, ERC4626)
+- DeFi protocol design (vaults, stablecoins, yield strategies)
+- Gas optimization and storage patterns
+- Access control and ownership patterns
 
-**Development Tools:**
-```
-Foundry (Testing, Scripting)      
-Remix IDE                          VS Code
-Etherscan / BaseScan              GitHub Workflows
-```
+**Testing & Security**
+- Foundry (unit, integration, fuzz testing)
+- 100% test coverage standard across major projects
+- CEI pattern, reentrancy guards, pausability
+- Attack simulation and defensive programming
+- Security-first development methodology
 
-**Blockchain Platforms:**
-```
-Ethereum (Sepolia, Mainnet)        Base (Sepolia, Mainnet)
-Polygon                            EVM-Compatible Chains
-```
+**Blockchain Integration**
+- Chainlink (VRF, Automation, Price Feeds)
+- Ethereum and Base (Sepolia, Mainnet)
+- Multi-chain deployment and verification
+- Protocol integration patterns
 
----
-
-## 💡 Development Philosophy
-
-> **Security First** → Every contract undergoes rigorous testing and follows industry security standards
-
-> **Gas Optimization** → Implementing efficient data structures and storage patterns to minimize costs
-
-> **Clean Code** → Following established design patterns and maintaining documented, readable code
-
-> **Build in Public** → Sharing knowledge and progress with the Web3 community daily
+**Development Tools**
+- Foundry (forge, cast, anvil)
+- Git/GitHub (branching, PRs, releases)
+- VS Code, Remix IDE
+- Etherscan, BaseScan
 
 ---
 
-## 🎯 Current Focus
+## Work Experience
 
-- 🏦 Advanced DeFi protocol development
-- 🔍 Smart contract security auditing  
-- 🔗 Chainlink oracle integration (VRF, Automation, Price Feeds)
-- ⚡ MEV-resistant contract design
+**Smart Contract QA Engineer (Contract)** • Contract.dev • Dec 2025 - Jan 2026
+- Tested private testnet platform that replays mainnet with GitHub contract imports
+- Identified bugs and edge cases across DeFi simulations and analytics features
+- Provided improvement suggestions and proposed features for developer adoption
+
+**Independent Smart Contract Developer** • Self-Employed • Apr 2025 - Present
+- Built 18+ contract security framework with 100% test coverage
+- Developed multi-strategy DeFi vault supporting 100+ strategies
+- Maintained 300+ day consecutive build streak
+- Grew organic following to 441 GitHub followers
 
 ---
 
-## 📈 GitHub Stats
+## Education & Certifications
+**Cyfrin Updraft Certifications:**
+- ✅ Blockchain Basics Course
+- ✅ Solidity Smart Contract Development
+- ✅ Foundry Fundamentals
+- 🔄 Advanced Foundry (In Progress)
+
+**Continuous Learning:**
+- Reading production protocols (Aave, Compound, Uniswap) for architectural patterns
+- Active participation in Web3 developer communities
+- Daily building and experimentation with new patterns
+
+---
+
+## Development Philosophy
+
+**Security First** • Every contract undergoes rigorous testing with 100% coverage standard. I build attack contracts to test defenses and think like an attacker to build secure systems.
+
+**Build From Scratch** • I don't just import OpenZeppelin—I rebuild security patterns from first principles to deeply understand why they exist and how they work.
+
+**Ship Consistently** • 300+ consecutive days of building proves that consistency compounds. Small daily progress leads to significant long-term results.
+
+**Test Everything** • Unit tests, fuzz tests, integration tests. If it's not tested, it's not done. 100% coverage isn't optional—it's the standard.
+
+---
+
+## Current Focus
+
+- Building KingUSD stablecoin with liquidation mechanisms
+- Reading production DeFi protocols for architectural learning
+- Exploring security auditing and bug bounty participation
+- Contributing to open-source Web3 tooling and education
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BuildsWithKing&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" alt="GitHub Stats" />
@@ -123,61 +199,24 @@ Polygon                            EVM-Compatible Chains
 
 ---
 
-## 📚 Personal Mantras
-
-> 💭 *"God first. Code second."*
-
-> 🎯 *"Consistency builds mastery. I'm here for both."*
-
-> 🔥 *"Don't skip the hard parts. Build through them."*
-
-> 🚀 *"One project a day keeps regret away."*
-
----
-
-## 🌟 Open Source & Community
-
-Building in public and contributing to the Web3 ecosystem:
-
-- ✅ **45+ open-source smart contracts** with comprehensive documentation
-- 📝 **Technical guides** on DeFi patterns and security practices  
-- 🤝 **Active community member** helping other developers learn Solidity
-- 💬 **Sharing daily progress** and learnings on Twitter/LinkedIn
-
----
-
-## 🎓 Continuous Learning
-
-**Recently Completed:**
-- ✅ Cyfrin Updraft - Foundry Fundamentals
-- ✅ Cyfrin Updraft - Advanced Foundry (Raffle Contract)
-- ✅ 30-Day Solidity Challenge (Extended to 177+ days)
-
-**Currently Learning:**
-- 🔄 Advanced DeFi mechanisms (AMMs, Lending, Derivatives)
-- 🔄 Smart contract auditing techniques
-- 🔄 MEV protection strategies
-- 🔄 Layer 2 scaling solutions
-
----
-
-## 💼 What I'm Looking For
+## What I'm Looking For
 
 I'm open to opportunities in:
 
-- 🏗️ **Smart Contract Development** - Building secure, gas-optimized contracts
-- 💰 **DeFi Protocol Building** - Yield aggregators, AMMs, lending platforms  
-- 🔍 **Security Auditing** - Reviewing and securing smart contracts
-- 🌐 **Web3 Full-Stack** - End-to-end dApp development
-- 🎯 **Freelance/Contract Work** - Short-term projects and consulting
+- **Smart Contract Development** — Building secure, gas-optimized DeFi protocols
+- **DeFi Protocol Engineering** — Vaults, AMMs, lending platforms, stablecoins
+- **Security Auditing** — Reviewing contracts and identifying vulnerabilities
+- **Contract Work** — Short-term projects and technical consulting
+- **Junior-to-Mid Level Roles** — Full-time positions with mentorship and growth opportunities
 
-**Status:** 🟢 Open to remote opportunities worldwide
+**Location:** Nigeria (Remote)  
+**Status:** 🟢 Open to opportunities worldwide
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always happy to discuss Web3, Solidity, or collaborate on projects!
+I'm always open to discussing Web3, Solidity, DeFi architecture, or collaborating on projects.
 
 <p align="center">
   <a href="https://twitter.com/BuildsWithKing">
@@ -201,52 +240,43 @@ I'm always happy to discuss Web3, Solidity, or collaborate on projects!
 </p>
 
 <p align="center">
-  <em>🕊️ Powered by faith. Fueled by focus. Built with consistency.</em>
+  <em>Building secure, scalable smart contract infrastructure one day at a time.</em>
 </p>
 
 ---
 
 <details>
-<summary>📊 <b>Detailed Project List (Click to expand)</b></summary>
+<summary>📊 <b>Complete Project Portfolio (Click to expand)</b></summary>
 
-### 🏗️ Complete Portfolio (45+ Contracts)
+### All 45+ Smart Contracts
 
-**Foundation (Days 1-10):**
-1. UserStorage → First Solidity contract
-2. QuoteVault → Dynamic data storage
-3. DreamVault → Structs + mappings
-4. ToDoList → CRUD operations
-5. WhitelistDapp → Access control
-6. SimpleBank → ETH deposits/withdrawals
-7. DonationVault → Donation management
-8. BasicKYC → Identity verification
-9. VoterVault → Voting system
-10. OwnershipManager → Ownership patterns
+**Featured Production Projects:**
+1. **BuildsWithKing-Security** (18+ contracts) — Security framework with access control, reentrancy guards, ERC20 implementations
+2. **KingYieldAggregator** — Multi-strategy DeFi vault with ERC4626-inspired architecture
+3. **KingUSD** — Overcollateralized stablecoin with liquidation mechanisms
+4. **Ethos Reputation Launch** — Soulbound NFT system with Chainlink integration
+5. **Raffle Smart Contract** — Provably fair lottery with Chainlink VRF
 
-**Intermediate (Days 11-20):**
-11. ProjectIdeaStorage → Complex mappings
-12. ContactBook → Contact management
-13. NFTVault → NFT tracking
-14. ReferralSystem → Reward distribution
-15. WalletGuard → Security features
-16. DecentralizedPoll → Multi-option voting
-17. EmailRegistry → Email-to-address mapping
-18. StudentRecordSystem → Record keeping
-19. SimpleAuction → Bidding logic
-20. GasSaverApp → Optimization focus
+**30-Day Challenge Projects (20+ contracts):**
 
-**Advanced (Days 21+):**
-- Additional 10+ contracts covering advanced patterns
-- DeFi protocols, governance, security
-- Gas optimization experiments
-- Complex state management
+Foundation (Days 1-10):
+- UserStorage, QuoteVault, DreamVault, ToDoList, WhitelistDapp
+- SimpleBank, DonationVault, BasicKYC, VoterVault, OwnershipManager
 
-[View Full Repository →](https://github.com/BuildsWithKing/30-days-solidity-challenge)
+Intermediate (Days 11-20):
+- ProjectIdeaStorage, ContactBook, NFTVault, ReferralSystem, WalletGuard
+- DecentralizedPoll, EmailRegistry, StudentRecordSystem, SimpleAuction, GasSaverApp
+
+Advanced (Days 21-30+):
+- Additional contracts covering governance, complex DeFi, gas optimization
+- Experimental patterns and security implementations
+
+[View Complete 30-Day Challenge →](https://github.com/BuildsWithKing/30-days-solidity-challenge)
 
 </details>
 
 ---
 
 <p align="center">
-  <sub>⭐ If you find my work helpful, consider starring my repositories!</sub>
+  <sub>⭐ If you find my work valuable, consider starring the repositories!</sub>
 </p>
