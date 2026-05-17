@@ -5,10 +5,6 @@
 <h3 align="center">Solidity Developer | Smart Contract Security | DeFi Protocol Builder</h3>
 
 <p align="center">
-  <em>11 months building in Web3 • 45+ Smart Contracts • 300+ consecutive days shipping</em>
-</p>
-
-<p align="center">
   <a href="https://twitter.com/BuildsWithKing"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/michealking-buildswithking-89724434a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://buildswithking.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
@@ -19,7 +15,7 @@
 
 ## About Me
 
-I'm a self-taught Solidity developer specializing in **security-first smart contract development** and **DeFi protocol infrastructure**. Over the past 11 months, I've shipped 45+ smart contracts publicly, progressing from basic storage contracts to multi-strategy DeFi vaults and stablecoin protocols.
+I'm a self-taught Solidity developer specializing in **security-first smart contract development** and **DeFi protocol infrastructure**. Over the past 1 year, I've shipped 45+ smart contracts publicly, progressing from basic storage contracts to multi-strategy DeFi vaults and stablecoin protocols.
 
 My approach centers on building production-grade, battle-tested contracts with **100% test coverage standards**, comprehensive Foundry testing (unit + fuzz + integration), and security patterns built from first principles. I think like an attacker to build defensive systems.
 
